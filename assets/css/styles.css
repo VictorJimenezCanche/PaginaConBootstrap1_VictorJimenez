@@ -1,0 +1,4 @@
+/* Sobrescribir el fondo del navbar */
+.navbar {
+    background-color: #007bff !important;
+}

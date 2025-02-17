@@ -14,5 +14,4 @@ Este trabajo es únicamente con fines académicos y no poseo los derechos del co
 - **CSS3**: Estilos y diseño personalizado.
 - **Bootstrap**: Framework para un diseño responsive y componentes predefinidos.
 
-## Estructura del Proyecto
 
